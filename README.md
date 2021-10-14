@@ -53,7 +53,8 @@ Kérdés/ötlet esetén nyugodtan nyiss egy új issue-t vagy keress a [contact@k
 * [pdfkit](https://github.com/foliojs/pdfkit)
 * [blob-stream](https://github.com/devongovett/blob-stream)
 
-## Licensz
-## Felhasználási nyilatkozat
 ## Adatvédelmi nyilatkozat
 Az kiegészítőben megadott személyes adatok nem kerülnek továbbításra és tárolásra idegen szerveren, kizárólag a te gépeden maradnak.
+
+## Licensz
+Az összes fájl ebben a tárolóban [MIT](https://en.wikipedia.org/wiki/MIT_License) licensz alatt került publikálásra,  a [LICENSE fájl](LICENSE) megtalálható a tároló főkönyvtárában.
