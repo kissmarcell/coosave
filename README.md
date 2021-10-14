@@ -20,7 +20,7 @@ A szkript támogatja a legtöbb modern böngészőt.
 * [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta)
 * [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
 
-2. A Tampermonkey kiegészítő telepítéséhez kattints [erre]() a linkre.
+2. A Tampermonkey kiegészítő telepítéséhez kattints [erre](https://github.com/kissmarcell/coosave/raw/main/coosave.user.js) a linkre.
 3. A megnyíló ablakban kattints az *Install* gombra.
 4. Innentől kezdve bármely teszt indításakor a szkript automatikusan mentést készít a tesztről, melyet bármikor elmenthetsz PDF-ként.
 
